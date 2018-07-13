@@ -1,0 +1,25 @@
+{
+  "name": "boilr-npmrc",
+  "version": "0.1.0",
+  "description": "Simple boilr template for npmrc.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-npmrc.git"
+  },
+  "keywords": [
+    "boilr",
+    "npmrc"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-npmrc/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-npmrc#readme"
+}
